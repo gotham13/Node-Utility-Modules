@@ -1,0 +1,29 @@
+{
+  "name": "node-utility-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "archiver": "^3.1.1",
+    "checksum": "^0.1.1",
+    "crypto-js": "^3.1.9-1",
+    "express": "~4.16.1",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.17.1",
+    "python-shell": "^1.0.8",
+    "request": "^2.88.0",
+    "sqlite3": "^4.1.0"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gotham13121997/Node-Utility-Modules.git"
+  },
+  "author": "Abhinav Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gotham13121997/Node-Utility-Modules/issues"
+  },
+  "homepage": "https://github.com/Gotham13121997/Node-Utility-Modules#readme"
+}
